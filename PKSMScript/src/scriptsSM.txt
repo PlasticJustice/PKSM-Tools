@@ -50,3 +50,6 @@
 "Set Vivillon Jungle form" -i 0x4130 1 17 1
 "Set Vivillon Fancy form" -i 0x4130 1 18 1
 "Set Vivillon Pokeball form" -i 0x4130 1 19 1
+"Renew 1st WonderCard" -i 0x65D52 1 1 1
+"Renew 2nd WonderCard" -i 0x65E5A 1 1 1
+"Renew 3rd WonderCard" -i 0x65F62 1 1 1
